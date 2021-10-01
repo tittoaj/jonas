@@ -155,6 +155,7 @@ TRIGGER="event"
     "installGoogleChrome"
     "installFirefox"
     "installOffice365"
+    "installFalconSensor"
   )
 
 #########################################################################################
